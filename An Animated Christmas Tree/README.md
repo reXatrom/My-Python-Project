@@ -1,0 +1,1 @@
+The aim is to build an animated christmas tree.
